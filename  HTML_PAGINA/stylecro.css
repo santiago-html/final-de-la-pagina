@@ -1,0 +1,183 @@
+body{
+    background-image: url("https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/ULYAUK5UYZE6DMBMWBNIRAIC7E.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+   
+}
+div{
+    display: contents ;
+    text-align: center;
+h2{
+font-size: 300%;
+color: white;
+}
+img{
+    height: 10%;
+    width: 25%;
+}
+p{
+    height:50%;
+    width: 100%;
+    font-size: 200%;
+    color: white;
+}
+}
+nav{
+   
+    
+h2{
+    color: white;
+}
+display: contents;
+align-items: center;
+text-align: center;
+figcaption{
+    color: white;
+}
+img{
+    height: 10%;
+    width: 20%;
+}
+}
+nav2{
+   
+    h2{
+        color:white;
+    }
+    display: contents;
+    align-items: center;
+    text-align: center;
+        
+    img{
+        height: 10%;
+        width: 20%;
+    }
+    
+    }
+    section{
+        img{
+            border: solid 5px white;
+        }
+    }
+    nav3{
+   
+        h2{
+            color: red;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+            
+    }
+    nav4{
+   
+        h2{
+            color:red;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+            
+    }
+    nav5{
+   
+        h2{
+            color:brown;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+            
+    }
+
+    h1{
+color: black;
+        text-align: center;
+    }
+
+    button{
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      } 
+
+      button2{
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      } 
+
+      a{
+
+        align-items: center;
+        text-align: center;
+      }
+
+
+      nav6{
+   
+        h2{
+            color:rgba(233, 6, 195, 0.733);
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+            
+    }
+
+    h1{
+color: black;
+        text-align: center;
+    }
+
+    button{
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      } 
+
+      button2{
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      } 
+
+      a{
+
+        align-items: center;
+        text-align: center;
+      }
